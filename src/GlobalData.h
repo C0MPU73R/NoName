@@ -1,5 +1,9 @@
-#ifndef GlobalData_H
-#define GlobalData_H
+/*
+@filename: GlobalData.h
+*/
+
+#ifndef GLOBAL_DATA_H
+#define GLOBAL_DATA_H
 
 #include "Networking\TCPSocket.h"
 #include "Bot\GenericBot.h"

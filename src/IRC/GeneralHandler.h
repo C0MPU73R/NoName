@@ -1,5 +1,9 @@
-#ifndef GENERALHANDLER_H
-#define GENERALHANDLER_H
+/*
+@filename: GenericHandler.h
+*/
+
+#ifndef GENERAL_HANDLER_H
+#define GENERAL_HANDLER_H
 
 #include <string>
 

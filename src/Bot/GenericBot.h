@@ -1,3 +1,6 @@
+/*
+@filename: GenericBot.h
+*/
 #ifndef GENERICBOT_H
 #define GENERICBOT_H
 

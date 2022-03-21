@@ -1,2 +1,2 @@
 # NoName
-An attempt to make an IRC service, NoName
+IRC service attempt, NoName

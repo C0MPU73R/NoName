@@ -1,2 +1,2 @@
 # NoName
-IRC service attempt, NoName
+IRC service
